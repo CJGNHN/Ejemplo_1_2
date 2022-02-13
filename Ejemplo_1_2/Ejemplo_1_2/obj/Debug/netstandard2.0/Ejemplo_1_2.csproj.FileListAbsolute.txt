@@ -1,0 +1,16 @@
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\bin\Debug\netstandard2.0\Ejemplo_1_2.deps.json
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\bin\Debug\netstandard2.0\Ejemplo_1_2.dll
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\bin\Debug\netstandard2.0\ref\Ejemplo_1_2.dll
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\bin\Debug\netstandard2.0\Ejemplo_1_2.pdb
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.AssemblyInfoInputs.cache
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.AssemblyInfo.cs
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.csproj.CoreCompileInputs.cache
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.dll
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\ref\Ejemplo_1_2.dll
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.pdb
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Persona.xaml.g.cs
+C:\Users\SOPORTE\source\repos\Ejemplo_1_2\Ejemplo_1_2\Ejemplo_1_2\obj\Debug\netstandard2.0\Ejemplo_1_2.csproj.AssemblyReference.cache

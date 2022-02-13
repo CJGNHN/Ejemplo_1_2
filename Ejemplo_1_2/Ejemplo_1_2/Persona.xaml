@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejemplo_1_2.Persona">
+
+    <ContentPage.Content>
+        <Grid Padding="20" RowSpacing="20">
+            <StackLayout>
+
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Informacion Recibida" HorizontalTextAlignment="Center" TextColor="White" FontSize="24"/>
+            </Frame>
+
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lbnombre" FontSize="20" Text="Nombre :" TextColor="Black"
+                HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="100" />
+                <Label HorizontalOptions="FillAndExpand" Text="{Binding nombre}" TextColor="Black" FontSize="20" />
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lbapellido" FontSize="20" Text="Apellido :" TextColor="Black"
+                HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="100" />
+                <Label HorizontalOptions="FillAndExpand" Text="{Binding apellido}" TextColor="Black" FontSize="20" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lbedad" FontSize="20" Text="Edad :" TextColor="Black"
+                HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="100" />
+                <Label HorizontalOptions="FillAndExpand" Text="{Binding edad}" TextColor="Black" FontSize="20" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="lbcorreo" FontSize="20" Text="Correo :" TextColor="Black"
+                HorizontalOptions="Start" VerticalOptions="Center" WidthRequest="100" />
+                <Label HorizontalOptions="FillAndExpand" Text="{Binding correo}" TextColor="Black" FontSize="20" />
+            </StackLayout>
+
+
+        </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
